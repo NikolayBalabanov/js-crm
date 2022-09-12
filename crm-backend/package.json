@@ -10,7 +10,6 @@
     "test": "jest"
   },
   "repository": {
-    "type": "git",
-    "url": "https://gitlab.skillbox.ru/frontend-pro/crm-backend.git"
+    "type": "git"
   }
 }
